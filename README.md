@@ -1,6 +1,6 @@
-#myProgress
+# myProgress
 
-#Final Project Requirements
+# Final Project Requirements
 
 * Must use React, Vue, or Angular in some way (even if minimal)
 
